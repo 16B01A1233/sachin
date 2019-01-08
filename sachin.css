@@ -1,0 +1,59 @@
+.pic{
+	background: grey;
+	height: 80px;
+	padding-left: 30px;
+}
+.bio{
+	background: grey;
+	height: 80px;
+	font-size: 20px;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.abt{
+	background: grey;
+	height: 80px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+}
+.st{
+	background: grey;
+	height: 80px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.pl{
+	background: grey;
+	height: 80px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.cpt{
+	background: grey;
+	height: 80px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.con{
+	padding-top: 30px;
+	background-color: yellow;
+	height: 515px;
+}
+
+.des{
+	background-color: #ADAD85;
+	height: 515px;
+	padding-left: 30px;
+}
+.in{
+	height: 100px;
+}
+.mat{
+	background-color:#ADAD85; 
+}
